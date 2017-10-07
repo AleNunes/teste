@@ -1,0 +1,6 @@
+total 16K
+drwxr-xr-x  3 alexandercn jupyterhubusers 4.0K Oct  7 20:09 .
+drwxr-xr-x 13 alexandercn jupyterhubusers 4.0K Oct  7 20:07 ..
+-rw-r--r--  1 alexandercn jupyterhubusers    0 Oct  7 20:11 bla.txt
+drwxr-xr-x  8 alexandercn jupyterhubusers 4.0K Oct  7 20:09 .git
+-rw-r--r--  1 alexandercn jupyterhubusers    7 Oct  7 20:09 README.md
